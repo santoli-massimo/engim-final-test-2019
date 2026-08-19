@@ -1,3 +1,6 @@
+> **Note** — Class repository from a course I taught at Engim Torino: student
+> submissions were pushed by the students themselves as part of the course.
+> Archived record of a completed course.
 
 # GIT Exercises for 2019 engim class
 
